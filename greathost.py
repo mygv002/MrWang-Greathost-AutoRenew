@@ -96,10 +96,11 @@ class GH:
         self.d.find_element(By.NAME, "password").send_keys(PASSWORD)
         self.d.find_element(By.CSS_SELECTOR, "button[type='submit']").click()
         self.w.until(EC.url_contains("/dashboard"))
+        time.sleep(2) # 等待面板数据加载
 
     def get_server(self):
         data = self.api("/api/servers")
-        #print(f"DEBUG: 获取服务器列表的原始返回 -> {data}") # 添加这行打印
+        print(f"DEBUG: 获取服务器列表的原始返回 -> {data}") # 添加这行打印
         servers = data.get("servers", [])
         return next((s for s in servers if s.get("name") == TARGET_NAME), None)
 
