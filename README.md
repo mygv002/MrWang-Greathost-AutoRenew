@@ -5,10 +5,10 @@
 📛 服务器名称: ghgv2
 ❌ 故障: `Message: 
 Stacktrace:
-#0 0x55934459ba6a <unknown>
-#1 0x559343faaab5 <unknown>
-#2 0x559343ffd676 <unk`
+#0 0x55fffe5dca6a <unknown>
+#1 0x55fffdfebab5 <unknown>
+#2 0x55fffe03e676 <unk`
 🌐 代理状态: 已尝试直连
-📅 时间: 2026/04/02 23:00:38
+📅 时间: 2026/04/02 23:15:27
 
-> 最近更新: 2026/04/02 23:00:38
+> 最近更新: 2026/04/02 23:15:28
