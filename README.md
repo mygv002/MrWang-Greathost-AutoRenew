@@ -1,13 +1,13 @@
 # GreatHost 自动续期状态
 
-🚨 **GreatHost 脚本报错**
+🎉 **GreatHost 续期成功**
 
 📛 服务器名称: ghgv2
-❌ 故障: `Message: 
-Stacktrace:
-#0 0x5611be77ba6a <unknown>
-#1 0x5611be18aab5 <unknown>
-#2 0x5611be1dd676 <unk`
-📅 时间: 2026/04/10 21:46:40
+🆔 ID: `e32aa348-44b3-454d-97e0-b69acd75a888`
+⏰ 增加时间: 60 ➔ 72h
+🚀 服务器状态: ❓ unknown
+💡 提示: Servidor gratuito renovado correctamente
+🌐 落地 IP: `149.118.156.106`
+📅 时间: 2026/04/11 11:17:43
 
-> 最近更新: 2026/04/10 21:46:40
+> 最近更新: 2026/04/11 11:17:44
